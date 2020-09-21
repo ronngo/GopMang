@@ -1,0 +1,13 @@
+D:\GopMang\bin\Debug\netcoreapp3.1\GopMang.exe
+D:\GopMang\bin\Debug\netcoreapp3.1\GopMang.deps.json
+D:\GopMang\bin\Debug\netcoreapp3.1\GopMang.runtimeconfig.json
+D:\GopMang\bin\Debug\netcoreapp3.1\GopMang.runtimeconfig.dev.json
+D:\GopMang\bin\Debug\netcoreapp3.1\GopMang.dll
+D:\GopMang\bin\Debug\netcoreapp3.1\GopMang.pdb
+D:\GopMang\obj\Debug\netcoreapp3.1\GopMang.csprojAssemblyReference.cache
+D:\GopMang\obj\Debug\netcoreapp3.1\GopMang.AssemblyInfoInputs.cache
+D:\GopMang\obj\Debug\netcoreapp3.1\GopMang.AssemblyInfo.cs
+D:\GopMang\obj\Debug\netcoreapp3.1\GopMang.csproj.CoreCompileInputs.cache
+D:\GopMang\obj\Debug\netcoreapp3.1\GopMang.dll
+D:\GopMang\obj\Debug\netcoreapp3.1\GopMang.pdb
+D:\GopMang\obj\Debug\netcoreapp3.1\GopMang.genruntimeconfig.cache
